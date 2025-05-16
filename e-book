@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>성은의 첫 번째 웹사이트</title>
+  <style>
+    body {
+      font-family: 'Noto Sans KR', sans-serif;
+      background: #fdfdfd;
+      color: #333;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #0077cc;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #0077cc;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+    a.button:hover {
+      background: #005fa3;
+    }
+    p {
+      font-size: 1.1em;
+    }
+  </style>
+</head>
+<body>
+  <h1>안녕하세요, lightwith00입니다! 👋</h1>
+  <p>이곳은 제가 처음 만든 나만의 웹사이트예요.<br />
+     앞으로 블로그, 전자책, 유튜브 쇼츠까지 연결해볼 거예요!</p>
+
+  <a href="https://github.com/lightwith00" class="button">내 GitHub 구경하기</a>
+
+  <p>내 전자책 보러 가기:<br />
+    <a href="https://kmong.com/self-marketing/667665/lMQvAC4CtC" target="_blank" class="button">전자책 구매하러 가기</a>
+  </p>
+</body>
+</html>
